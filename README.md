@@ -59,19 +59,25 @@
     <main>
         <section id="home">
             <h2>Inicio</h2>
-            <p>Esta es la sección de inicio de mi página web. Aquí puedes encontrar información general sobre lo que hacemos.</p>
+            <p>Esta es la sección de inicio de mi página web. Mi nombre es helbert anthony mamani salas y es un placer estar aquí con ustedes hoy. Quiero tomarme unos minutos para presentarme y compartir un poco sobre quién soy y qué me apasiona.</p>
         </section>
         <section id="about">
-            <h2>Sobre Nosotros</h2>
-            <p>Somos una empresa dedicada a proporcionar soluciones innovadoras para nuestros clientes.</p>
+            <h2>Sobre MI</h2>
+            <p>Más allá de mi vida profesional, tengo varios pasatiempos que me apasionan. Me encanta jugar videojuegos, una actividad que no solo es divertida, sino que también me ha enseñado valiosas habilidades como la estrategia, el trabajo en equipo y la toma de decisiones rápidas. Además, soy un gran amante de la música. Disfruto tanto escuchar como explorar nuevos géneros y artistas, lo que me permite relajarme y encontrar inspiración.
+
+Otro de mis grandes pasatiempos es el arte. Me gusta pintar y dibujar, lo que me da la oportunidad de expresarme de una manera creativa y explorar mi imaginación. Este interés me ha ayudado a desarrollar una perspectiva única y a mejorar mi atención al detalle, cualidades que aplico en mi trabajo diario.</p>
         </section>
         <section id="services">
-            <h2>Servicios</h2>
-            <p>Ofrecemos una variedad de servicios diseñados para ayudarte a alcanzar tus objetivos.</p>
+            <h2>POR QUE ESCOGI SAN PABLO</h2>
+            <p>Desde el principio, San Pablo me llamó la atención por varias razones. Primero, la reputación académica de la institución es sobresaliente. San Pablo es conocida por su excelencia educativa y sus programas innovadores en la carrera de administracion de negiocios que están alineados con las demandas del mercado laboral actual. Sabía que aquí recibiría una educación de alta calidad que me prepararía para los desafíos profesionales.
+
+Además, San Pablo tiene un enfoque integral en la formación de sus estudiantes, no solo en lo académico, sino también en el desarrollo personal y profesional. Me atrajo mucho el hecho de que ofrecen oportunidades para involucrarse en actividades extracurriculares, investigaciones y proyectos que complementan el aprendizaje en el aula.
+
+La comunidad estudiantil de San Pablo es otra de las razones por las que elegí esta institución. Es un ambiente diverso e inclusivo, donde he tenido la oportunidad de conocer a personas de diferentes culturas y antecedentes, enriqueciendo mi experiencia personal y profesional.</p>
         </section>
         <section id="contact">
-            <h2>Contacto</h2>
-            <p>Puedes contactarnos a través del correo electrónico o nuestras redes sociales.</p>
+            <h2>PARA TERMINAR</h2>
+            <p>Espero poder concluir mi carrera satisfactoriamente y aprovechar al máximo todas las oportunidades que San Pablo tiene para ofrecer. Estoy emocionado por el camino que tengo por delante y agradecido por el apoyo que he recibido hasta ahora</p>
         </section>
     </main>
     <footer>
